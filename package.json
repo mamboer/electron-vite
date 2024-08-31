@@ -1,5 +1,5 @@
 {
-  "name": "electron-vite",
+  "name": "@xsin/electron-vite",
   "version": "2.3.0",
   "description": "Electron build tooling based on Vite",
   "type": "module",
